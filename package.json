@@ -1,0 +1,10 @@
+{
+  "name": "hacker-news",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "82surf <82surf@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
